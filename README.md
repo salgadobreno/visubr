@@ -1,0 +1,3 @@
+First time playing with d3...
+
+A list of products with bar chart comparison of prices + a **holy-cr#p-why-do-we-pay-X-times-the-price-for-the-same-thing-considering-the-wages-are-X-times-lower** viz
